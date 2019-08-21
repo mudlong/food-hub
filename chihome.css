@@ -600,22 +600,21 @@ div.desc {
 	padding: 5px;
 
 }
-#ad{
+#ize{
 	background-color:maroon ;
 	color:yellow;
 	position: absolute;
 	border:1px solid white;
-	/*top: 145px;*/
+	top: 145px;
 	right: 1px;
-	border-radius: %;
+	border-radius: 39%;
 	text-align: center;
 	font-size: 20px;
-	opacity: .0;
-	z-index: 1;
+	opacity: 1;
+	/*z-index: 2;*/
 	padding: 4px;
-	width: 95%;
-	/*visibility: hidden;*/
-	height: 240px;
+	/*width: 57px;*/
+	/*height: 30px;*/
 	font-weight: bolder;
 
 }
