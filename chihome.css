@@ -599,7 +599,28 @@ div.desc {
 	text-align: center;
 	padding: 5px;
 
-}#az{
+}
+#ad{
+	background-color:maroon ;
+	color:yellow;
+	position: absolute;
+	border:1px solid white;
+	/*top: 145px;*/
+	right: 1px;
+	border-radius: %;
+	text-align: center;
+	font-size: 20px;
+	opacity: .0;
+	z-index: 1;
+	padding: 4px;
+	width: 95%;
+	/*visibility: hidden;*/
+	height: 240px;
+	font-weight: bolder;
+
+}
+
+#az{
 	background-color: black;
 	position: absolute;
 	border:1px solid white;
